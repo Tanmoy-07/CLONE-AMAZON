@@ -1,4 +1,4 @@
 # my-demo
 This is my first repository.
 <br>
-aurthor:-Tanmoy mahato
+aurthor:-Tanmoy (my-demo)
